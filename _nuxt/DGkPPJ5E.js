@@ -1,0 +1,1 @@
+import{$ as e}from"./vK5_DV4V.js";import{n as t}from"./C6wiI4Qv.js";function n(n,r=`reka`){if(n)return n;let i,a=t({useId:void 0});return i=a.useId?a.useId():e?.(),r?`${r}-${i}`:i}export{n as t};
